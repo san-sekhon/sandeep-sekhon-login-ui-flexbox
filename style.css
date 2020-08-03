@@ -22,6 +22,7 @@
   height: 25rem;
   justify-content: center;
   align-items: center;
+  box-shadow: 2px 2px 2px 2px #b0d2ff;
 }
 
 .login-form div {
